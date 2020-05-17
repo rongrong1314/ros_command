@@ -7,6 +7,6 @@ ros一些指令
 >>>cd <>   
 >>>catkin_make  
 ### 设置环境变量
->>>source devel/setup.bash // echo "source /<>/devel/setup.bash" >>~/.bashrc 
+>>>source devel/setup.bash // echo "source /<>/devel/setup.bash" >>~/.bashrc  
 >>>echo $ROS_PACKAGE_PATH查看地址    
 >>>sudo gedit ~/.bashrc在文本中操作地址
